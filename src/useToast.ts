@@ -16,7 +16,7 @@ export const DEFAULT_OPTIONS: Required<ToastOptions> = {
   position: 'top',
   autoHide: true,
   visibilityTime: 4000,
-  topOffset: 40,
+  topOffset: 55,
   bottomOffset: 40,
   keyboardOffset: 10,
   onShow: noop,
